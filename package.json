@@ -9,6 +9,8 @@
   "author": "Michael G. Burton",
   "license": "ISC",
   "dependencies": {
+    "babel": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
     "firebase": "^5.8.4"
   },
   "devDependencies": {
