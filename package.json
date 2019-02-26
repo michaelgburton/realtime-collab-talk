@@ -1,0 +1,17 @@
+{
+  "name": "realtime-collab-talk",
+  "version": "1.0.0",
+  "description": "Code for Realtime Collaboration with Firebase (NDev 33, Feb 26 2019)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael G. Burton",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^5.8.4"
+  },
+  "devDependencies": {
+    "parcel": "^1.11.0"
+  }
+}
